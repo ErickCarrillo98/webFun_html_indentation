@@ -1,0 +1,40 @@
+
+h1{
+    margin-top: 41px;
+}
+
+.container{
+    height: 350px;
+    width: 650px;
+    background-color:white;
+    border: solid silver 5px;
+}
+
+.topNav{
+    height: 100px;
+    width: 650px;
+    background-color: teal;
+}
+
+.main{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.circle{
+    height: 80px;
+    position: absolute;
+    top: 61px;
+    left: 30px;
+    box-shadow: 0px 0px 0px .4em white, 0px 0px 0px .6em black, 0px 0px 0px calc(.6em + 2px) darkslategrey;
+    border-radius: 50%;
+   background-color: white;
+}
+.marker img{
+    width: 12px;
+    display:inline-block
+}
+.settings{
+    height: 20px;
+    display: inline-block;
+}
+
